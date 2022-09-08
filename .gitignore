@@ -16,3 +16,6 @@
 .glide/
 /glide.lock
 /.idea/.gitignore
+/.idea/doubleratchet.iml
+/.idea/modules.xml
+/.idea/vcs.xml

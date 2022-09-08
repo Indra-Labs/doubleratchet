@@ -1,4 +1,4 @@
-package: github.com/status-im/doubleratchet
+package: github.com/Indra-Labs/doubleratchet
 import:
 - package: golang.org/x/crypto
   subpackages:
